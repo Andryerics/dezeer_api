@@ -16,7 +16,9 @@
     "type": "git",
     "url": "git+https://github.com/Andryerics/dezeer_api.git"
   },
-  
+  "bugs": {
+    "url": "https://github.com/Andryerics/dezeer_api/issues"
+  },
   "homepage": "https://github.com/Andryerics/dezeer_api#readme",
   "author": "andryerics",
   "license": "ISC"
