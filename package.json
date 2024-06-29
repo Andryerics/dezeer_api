@@ -1,0 +1,25 @@
+{
+  "name": "dezeer_api",
+  "version": "1.0.0",
+  "description": "API FOR DEZEER : search tracks , artist, album...",
+  "main": "lib/index.js",
+  "keywords": ["deezer","dezeer-api","api","tracks","album","artist","radio","playlist","user","genre","infos"],
+  "dependencies": {
+    "@types/node": "^18.0.6"
+      "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andryerics/dezeer_api.git"
+  },
+  
+  "homepage": "https://github.com/Andryerics/dezeer_api#readme",
+  "author": "andryerics",
+  "license": "ISC"
+}
+
+
