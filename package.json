@@ -5,8 +5,7 @@
   "main": "lib/index.js",
   "keywords": ["deezer","dezeer-api","api","tracks","album","artist","radio","playlist","user","genre","infos"],
   "dependencies": {
-    "@types/node": "^18.0.6"
-      "axios": "^0.21.1"
+    "axios": "^0.21.1"
   },
   "devDependencies": {},
   "scripts": {
