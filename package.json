@@ -1,5 +1,5 @@
 {
-  "name": "dezeer_api",
+  "name": "deezer_api",
   "version": "1.0.0",
   "description": "API FOR DEZEER : search tracks , artist, album...",
   "main": "lib/index.js",
